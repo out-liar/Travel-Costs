@@ -1,4 +1,4 @@
-# Travel-Costs
+# Travel-Costs.py
 # This Python code helps calculate costs while travelling: my first small project.
 #
 # The code begins here:

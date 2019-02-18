@@ -36,4 +36,4 @@ def trip_cost(city, days, spending_money):
 # Input travel details: ( city, days, spending money)
 print trip_cost("Los Angeles", 5, 600)
 
-# Calculator courtesy of out_liar consulting
+# Calculator coded by out_liar consulting
